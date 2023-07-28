@@ -1,0 +1,6 @@
+github.com/joshbetz/config v0.0.0-20191025221858-121804b392d9 h1:b/uZW09Z0etSrDhlyykJoMWEi/p7ODAqqPys1BogNrA=
+github.com/joshbetz/config v0.0.0-20191025221858-121804b392d9/go.mod h1:qg4RI5gcFsEdBBWqwWHknPLVDK0F3i0UNKVIU+ysRw8=
+github.com/xiaost/jsonport v0.0.0-20200402153148-139b207e756f h1:4uU6VcQzHShGt0DZlZ5LVHBFxg52tKY5+YGn4FG9psM=
+github.com/xiaost/jsonport v0.0.0-20200402153148-139b207e756f/go.mod h1:bGI1SO4Pjktlioum2qzupYDYC/IxVQrPXilH7edH+4w=
+golang.org/x/exp v0.0.0-20230725093048-515e97ebf090 h1:Di6/M8l0O2lCLc6VVRWhgCiApHV8MnQurBnFSHsQtNY=
+golang.org/x/exp v0.0.0-20230725093048-515e97ebf090/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
