@@ -1,4 +1,4 @@
-module github.com/PoweredByPumP/WgDnsSetter
+module github.com/PoweredByPumP/wgdnssetter
 
 go 1.20
 
