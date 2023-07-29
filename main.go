@@ -39,10 +39,6 @@ func init() {
 	registeredClients = make(map[string]string)
 }
 
-func main() {
-	SetDnsClientEntry()
-}
-
 func SetDnsClientEntry() bool {
 	clients, _ := ioutil.ReadDir(dbDir)
 
