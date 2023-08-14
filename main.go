@@ -1,4 +1,4 @@
-package wgdnssetter
+package main
 
 import (
 	"fmt"
