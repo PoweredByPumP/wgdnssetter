@@ -1,5 +1,6 @@
-WgDnsSetter
+wgdnssetter
 example/
 settings.json
+clients.list
 
 .idea/

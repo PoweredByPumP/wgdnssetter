@@ -1,5 +1,6 @@
 {
   "valid_mail_tld": "poweredbypump.com",
   "db_dir": "./db/clients",
-  "dns_tld": "pbp"
+  "dns_tld": "pbp",
+  "file_to_write": "/clients.list"
 }
